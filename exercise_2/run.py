@@ -1,5 +1,5 @@
-from exercise_2.db.storage import phone_book as phone_book_01
-from exercise_2.utils.decorators import logging
+from db.storage import phone_book as phone_book_01
+from utils.decorators import logging
 
 
 @logging
