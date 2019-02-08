@@ -1,4 +1,4 @@
-from exercise_2.phonebook import PhoneBook
+from phonebook import PhoneBook
 
 phone_book_name = 'Fun'
 phone_book = PhoneBook(phone_book_name)
