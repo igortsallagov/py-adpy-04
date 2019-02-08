@@ -1,4 +1,4 @@
-from exercise_2.contact import Contact
+from contact import Contact
 
 
 class PhoneBook:
